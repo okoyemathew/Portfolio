@@ -159,7 +159,7 @@ a:hover,
 .sec-title h1::after {
     position: absolute;
     content: '';
-    background-color: var(--primary-color);
+    
     width: 50%;
     height: 50%;
     right: -4px;
