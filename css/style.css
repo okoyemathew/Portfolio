@@ -175,8 +175,8 @@ a:hover,
 }
 
 .header .navbar-brand img {
-    width: 20rem;
-    height: auto;
+    width: 40px;
+    height:40px;
     object-fit: cover;
 }
 
@@ -366,7 +366,7 @@ a:hover,
     width: 40%;
     margin: auto;
     bottom: 0;
-    border-bottom: 1px solid var(--white-color);
+   
 }
 
 .process-wrapper .process-content span {
@@ -425,11 +425,12 @@ a:hover,
 .footer_wrapper {
     background-color: var(--black-color);
     padding-bottom: 0rem;
+    margin-top: 20px;
 }
 
 .footer_wrapper .footer-logo img {
-    width: 25rem;
-    height: auto;
+    width: 70px;
+    height: 70x;
     object-fit: cover;
 }
 
